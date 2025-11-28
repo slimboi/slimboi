@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Olawale
 
-<!--
-**slimboi/slimboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Cloud DevOps/DevSecOps Engineer with hands-on experience in AWS, Kubernetes, and Infrastructure as Code. I'm passionate about building scalable, automated infrastructure and CI/CD pipelines.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building production-ready projects with:
+- Kubernetes deployments with Helm charts and ArgoCD
+- Docker containerization and multi-architecture builds
+- AWS infrastructure automation with Terraform
+- CI/CD pipelines and GitOps workflows
+
+## 🛠️ Technical Skills
+
+**Cloud & Infrastructure:** AWS (Solutions Architect experience), Terraform  
+**Container Orchestration:** Kubernetes, Docker, Minikube, ECS  
+**CI/CD & GitOps:** ArgoCD, Helm, Git workflows  
+**Monitoring & Observability:** CloudWatch, application logging
+
+## 📚 Background
+
+I bring strong stakeholder management and systems analysis skills to my DevOps practice. I'm currently based in Adelaide, Australia, and actively seeking DevOps opportunities.
+
+## 📫 Let's Connect
+
+* LinkedIn: [linkedin.com/in/olawale-fagbule](https://www.linkedin.com/in/olawale-fagbule/)
+* Email: ola.fagbule@gmail.com
+
+---
+
+🎬 Outside of tech, I enjoy movies, sports, and exploring new places 🌍
